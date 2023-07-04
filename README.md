@@ -1,3 +1,3 @@
-# Practice Disenño de Experimentos de SI
+# Diseño de Experimentos de SI
 - Selenium
 - Eclipse
